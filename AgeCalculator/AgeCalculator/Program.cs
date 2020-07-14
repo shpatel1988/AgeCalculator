@@ -17,7 +17,8 @@ namespace AgeCalculator
             TimeSpan v =DateTime.Now - dt;
 
             Console.WriteLine($"days {v.Days}");
-            Console.Write($"You  are   {v.Days/365} years and  ");
+            if(v.Days/365 !=0)
+                Console.Write($"You  are   {v.Days/365} years and  ");
             int fractDays = (v.Days / 365) * 365;
             Console.Write($" {(v.Days - fractDays)/30}  Months and ");
             int days = v.Days%365;
