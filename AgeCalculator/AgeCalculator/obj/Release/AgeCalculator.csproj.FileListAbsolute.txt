@@ -1,0 +1,11 @@
+C:\Users\shpat\Documents\Visual Studio 2017\Projects\AgeCalculator\AgeCalculator\bin\Release\AgeCalculator.exe.config
+C:\Users\shpat\Documents\Visual Studio 2017\Projects\AgeCalculator\AgeCalculator\bin\Release\AgeCalculator.exe.manifest
+C:\Users\shpat\Documents\Visual Studio 2017\Projects\AgeCalculator\AgeCalculator\bin\Release\AgeCalculator.application
+C:\Users\shpat\Documents\Visual Studio 2017\Projects\AgeCalculator\AgeCalculator\bin\Release\AgeCalculator.exe
+C:\Users\shpat\Documents\Visual Studio 2017\Projects\AgeCalculator\AgeCalculator\bin\Release\AgeCalculator.pdb
+C:\Users\shpat\Documents\Visual Studio 2017\Projects\AgeCalculator\AgeCalculator\obj\Release\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\shpat\Documents\Visual Studio 2017\Projects\AgeCalculator\AgeCalculator\obj\Release\AgeCalculator.sourcelink.json
+C:\Users\shpat\Documents\Visual Studio 2017\Projects\AgeCalculator\AgeCalculator\obj\Release\AgeCalculator.exe.manifest
+C:\Users\shpat\Documents\Visual Studio 2017\Projects\AgeCalculator\AgeCalculator\obj\Release\AgeCalculator.application
+C:\Users\shpat\Documents\Visual Studio 2017\Projects\AgeCalculator\AgeCalculator\obj\Release\AgeCalculator.exe
+C:\Users\shpat\Documents\Visual Studio 2017\Projects\AgeCalculator\AgeCalculator\obj\Release\AgeCalculator.pdb
